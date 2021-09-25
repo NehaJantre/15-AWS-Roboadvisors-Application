@@ -22,10 +22,6 @@ Also, you’ll use the following AWS services:
 * [Amazon Lambda]()
 
 ---
-## Examples:
-![Amazon Lex bot](./Videos/AmazonLexbot.gif)
-![Amazon Lex using Lambda function](./Videos/AmazonLexusingLambdafunction.gif)
----
 
 ## Contributors
 
